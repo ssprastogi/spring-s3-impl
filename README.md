@@ -1,1 +1,1 @@
-# spring-s3-impl
+# AWS S3 implementation with Spring boot application
